@@ -37,7 +37,7 @@ User Management Dashboard is a simple web application that allows users to **vie
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone 
+git clone https://github.com/sohamsk13/User-Management.git
 cd User-Management
 
 
@@ -64,12 +64,12 @@ DELETE → Remove a user
 
 Challenges & Improvements
 
-✅ Challenges Faced:
+##✅ Challenges Faced:
 Handling mock API responses: JSONPlaceholder doesn’t store changes, so state management was crucial for a smooth user experience.
 Ensuring form validation: Client-side validation was implemented to prevent incorrect user inputs.
 Managing file uploads: Implemented logic to upload and preview profile pictures for a more personalized experience.
 
-🚀 Future Enhancements:
+##🚀 Future Enhancements:
 Integrate a real backend with Node.js/Express and MongoDB for actual data storage.
 Implement authentication and role-based access for user security.
 Improve UI/UX with more animations and accessibility features.
