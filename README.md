@@ -3,6 +3,8 @@
 ## 📋 Description
 User Management Dashboard is a simple web application that allows users to **view, add, edit, and delete user details** using the **JSONPlaceholder API**. This project demonstrates CRUD operations, form validation, and state management in a modern frontend application.
 
+Deployement : https://user-management-one-tau.vercel.app/
+
 ---
 
 ## 🛠️ Tech Stack Used
