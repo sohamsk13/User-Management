@@ -37,8 +37,8 @@ User Management Dashboard is a simple web application that allows users to **vie
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone <your-repo-url>
-cd user-management-dashboard
+git clone 
+cd User-Management
 
 
 2. Install dependencies
@@ -63,10 +63,12 @@ DELETE → Remove a user
 (Note: Since JSONPlaceholder is a mock API, changes (POST, PUT, DELETE) are not persisted.)
 
 Challenges & Improvements
+
 ✅ Challenges Faced:
 Handling mock API responses: JSONPlaceholder doesn’t store changes, so state management was crucial for a smooth user experience.
 Ensuring form validation: Client-side validation was implemented to prevent incorrect user inputs.
 Managing file uploads: Implemented logic to upload and preview profile pictures for a more personalized experience.
+
 🚀 Future Enhancements:
 Integrate a real backend with Node.js/Express and MongoDB for actual data storage.
 Implement authentication and role-based access for user security.
